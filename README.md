@@ -2,7 +2,7 @@
 A script that transforms the text in clipboard into a pastebin link
 
 requires:
-pip install pyperclip
+pip install pyperclip  
 autohotkey
 
 You need to set up your DEV-KEY by going on https://pastebin.com/api#1
