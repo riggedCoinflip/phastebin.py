@@ -6,7 +6,7 @@ import time
 URL = "https://pastebin.com/api/api_post.php"
 OPTION = "paste"
 
-DEV_KEY: str = "token"  # your dev key, shown at https://pastebin.com/api
+DEV_KEY: str = "token"  # your dev key, shown at https://pastebin.com/api#1
 USER_KEY: str = "" #if your key is not set, execute generate_user_key() to cache it here. This is recommended by pastebin
 
 # data limitations:
