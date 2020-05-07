@@ -14,7 +14,7 @@ USER_KEY: str = "" #if your key is not set, execute generate_user_key() to cache
 # free - 20 pastes/24h, unlimited public, 10 unlisted, 2 private
 # pro - 250 pastes/24h, unlimited
 
-def clipboard_to_link(name="sharedCode", language="python", private="0", expire="N"):
+def clipboard_to_link(name="created with riggedCoinflip's pastebin.py", language="python", private="0", expire="N"):
     clipboard = pyperclip.paste()
     if not clipboard:
         print("Error: Empty Paste")
