@@ -1,4 +1,4 @@
-# pastebin.py
+# phastebin.py
 A script that transforms your clipboard into a pastebin or hastebin link
 It also provides the option to get the content of the link to your clipboard.
 
@@ -28,6 +28,7 @@ If everything is set up, you can:
 I am always open for programmers who want to revise my code, add new features etc.  
 Experiencing uncaught bugs? A feature you are missing? Some other paste website you want to add? Use the issues page for that!  
 Feel free to improve THIS readme as well!
+With potential new websites to support, `phastebin` might not be a good name for the future. If you are creative, I would be happy to hear your idea for a name.
 
 You can also get in contact with me:  
 discord: Timo | riggedCoinflip#7270  
