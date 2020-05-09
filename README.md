@@ -27,3 +27,6 @@ Experiencing uncaught bugs? A feature you are missing? Some other paste website 
 
 You can also get in contact with me:
 discord: Timo | riggedCoinflip#7270
+to DM me, join the python or java server:
+https://discord.gg/7Y4aZqK
+https://discord.gg/python
