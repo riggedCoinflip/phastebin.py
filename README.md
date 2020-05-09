@@ -26,7 +26,8 @@ If everything is set up, you can:
 
 ## Contribute:  
 I am always open for programmers who want to revise my code, add new features etc.  
-Experiencing uncaught bugs? A feature you are missing? Some other paste website you want to add? Use the issues page for that!
+Experiencing uncaught bugs? A feature you are missing? Some other paste website you want to add? Use the issues page for that!  
+Feel free to improve THIS readme as well!
 
 You can also get in contact with me:  
 discord: Timo | riggedCoinflip#7270  
