@@ -7,9 +7,12 @@ pip install pyperclip
 autohotkey
 
 Getting started:
-1.Get your autohotkey script running.
-(if you prefer to use hastebin, you need to edit the script to comment out pastebin)
-2.If you use pastebin, just follow the instructions the first time you use the script.
+1.Get your autohotkey script running.  
+(if you prefer to use hastebin, you need to edit the script to comment out pastebin)  
+2.If you use pastebin, just follow the instructions the first time you use the script.  
+
+Windows:  
+You can also add the AHK script to your startup. To do that, run ([WIN] + R) `shell:startup` and create a shortcut to your ahk in that folder.
 
 If everything is set up, you can:
 1.[CTRL] + C - Copy your text/code to clipboard
