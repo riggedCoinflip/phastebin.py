@@ -14,7 +14,7 @@ autohotkey
 ### Windows:  
 You can also add the AHK script to your startup. To do that, run ([WIN] + R) `shell:startup` and create a shortcut to your ahk in that folder.
 
-If everything is set up, you can:
+If everything is set up, you can:  
 1.[CTRL] + C - Copy your text/code to clipboard  
 2.[CTRL] + [SHIFT] + C - Transform your text/code into the link  
 3.[CTRL] + V - Paste the link to the person you want to share your text with.  
