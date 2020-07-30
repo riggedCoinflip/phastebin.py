@@ -22,16 +22,3 @@ If everything is set up, you can:
 1.[CTRL] + C - Copy the hastebin/pastebin link to your clipboard  
 2.[CTRL] + [SHIFT] + V - Transform your link into text/code  
 3.[CTRL] + V - Copy the text/code to target location  
-
-
-## Contribute:  
-I am always open for programmers who want to revise my code, add new features etc.  
-Experiencing uncaught bugs? A feature you are missing? Some other paste website you want to add? Use the issues page for that!  
-Feel free to improve THIS readme as well!
-With potential new websites to support, `phastebin` might not be a good name for the future. If you are creative, I would be happy to hear your idea for a name.
-
-You can also get in contact with me:  
-discord: Timo | riggedCoinflip#7270  
-to DM me, join the python or java server:  
-https://discord.gg/7Y4aZqK  
-https://discord.gg/python  
